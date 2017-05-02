@@ -1,0 +1,72 @@
+.logostyle {
+	font-size: 3vh !important;
+}
+.fixed {
+	position: fixed;
+}
+
+#fn-search {
+    z-index: 5;
+    width: 28%;
+    left: 36%;
+    top: 20px;
+}
+.titleTyping {
+	position: relative;
+	z-index: 1;
+	top: 230px;
+	color: #fff;
+}
+.coverH1 {
+	font-size: 8vh;
+}
+.allfix {
+	position: fixed;
+}
+.fixMenu{   
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+	background-color: rgba(16, 16, 16, 0.58);
+	color: #fff;
+}
+#blfixed {
+	display: none;
+}
+.baner {
+	margin-top: -195px;
+}
+.all-products-margin {
+	margin-top: 8.2%;
+}
+.mobilemenu {
+	display: none;
+}
+
+@media screen and (max-width: 991px) {
+.mobhid {
+	display: none;
+	} 
+.fixMenu {
+	margin-top: 0%;
+	}
+.mobilemenu {
+	display: block;
+}	
+.i-phone {
+	margin-top: -10%;
+	}
+.pcsearsh {
+	display: none;
+	}
+.input-group{
+	width: 50% !important
+	 margin-left: -8%!important;
+	}
+.m-y-1-md_down {
+	margin-top: 0rem !important;
+	 margin-bottom: 0rem !important;
+	}
+.fixMenu {
+	margin-top: -2%;
+	}}

@@ -1,0 +1,34 @@
+.logostyle {
+	font-size: 3vh !important;
+}
+.fixed {
+	position: fixed;
+}
+
+#fn-search {
+    z-index: 5;
+    width: 28%;
+    left: 36%;
+    top: 20px;
+}
+.titleTyping {
+	position: relative;
+	z-index: 1;
+	top: 230px;
+	color: #fff;
+}
+.coverH1 {
+	font-size: 8vh;
+}
+
+.fixMenu{   
+	position: fixed;
+	width: 100%;
+	z-index: 2;
+	background-color: rgba(16, 16, 16, 0.58);
+	color: #fff;
+	display: none;
+}
+.baner {
+	margin-top: -195px;
+}
